@@ -22,11 +22,7 @@ a {
     color: gold;
 }
 
-a:hover {
-    color: black;
-    text-shadow: 2px 2px 10px gold;
-    cursor: url('../asset/arrow.png'), auto;
-}
+
 
 
 
