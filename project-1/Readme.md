@@ -1,5 +1,5 @@
 #  Room Tour / Finding My Kitty
-![demo](https://github.com/popper123/iml300/blob/master/project-1/asset/posterroom.gif)
+![demo](https://github.com/popper123/iml300/blob/master/project-1/asset/posterroom1.gif)
 
 [Room Tour / Finding My Kitty](http://popper123.github.io/iml300/project-1) is an interactive web experience about me move to a new house 
 
