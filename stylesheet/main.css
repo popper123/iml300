@@ -1,0 +1,86 @@
+#any {
+	color: #ccc;
+}
+
+#any:hover {
+	color: black;
+}
+
+
+#container {
+	width: 900px;
+	padding: 100px 30px;
+	margin: auto;
+	font-weight: 300;
+}
+
+
+
+
+
+a {
+    color: gold;
+}
+
+
+
+
+
+p {
+    font-size: 3.75rem;
+}
+
+
+
+
+
+
+
+.center {
+
+    height: 150vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin: auto;
+    /*    border: 3px solid white;*/
+}
+ 
+
+
+
+
+.center2 {
+
+    height: 150vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin: auto;
+    /*    border: 3px solid white;*/
+}
+ 
+
+
+video {
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+video2 {
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
