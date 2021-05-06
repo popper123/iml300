@@ -3,7 +3,7 @@ let bubbles = [];
 var canvas;
 
 function setup() {
- canvas= createCanvas(windowWidth,windowHeight);
+ canvas= createCanvas(windowWidth,windowHeight*2);
        canvas.style('z-index','-1');
     canvas.position(0,0);
     
